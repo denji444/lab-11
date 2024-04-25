@@ -8,3 +8,6 @@ OPP
 SDLC
 DS
 SCM
+ENglish 
+probability
+Quran translation
